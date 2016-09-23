@@ -1,0 +1,7 @@
+# arduino_simple_piano
+
+It is really simple because it generate the square wave when switch is pressed.
+
+Pins:
+1-8 through switch to ground
+"+" of buzzer to pin 9 and "-" to ground
